@@ -209,8 +209,10 @@ software and packages, designed by L<NIST|http://csrc.nist.gov/>.
 
 =head1 CONSTRUCTORS
 
-=head1 new()
+=head2 new()
+
 =head2 new( 'cpe_string' );
+
 =head2 new( %arguments );
 
 Creates a new CPE object from either the format string representation of
