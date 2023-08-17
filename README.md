@@ -13,7 +13,7 @@ identifiers, as specified by CPE version 2.3 in NIST IR 7695 and 7696.
     my $cpe2 = CPE->new(
         part    => 'o',
         vendor  => 'linux',
-        type    => 'linux_kernel,
+        type    => 'linux_kernel',
         version => '6.2.12',
     );
 

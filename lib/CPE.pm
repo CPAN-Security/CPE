@@ -166,7 +166,7 @@ CPE - Common Platform Enumeration identifiers
     my $cpe2 = CPE->new(
         part    => 'o',
         vendor  => 'linux',
-        type    => 'linux_kernel,
+        type    => 'linux_kernel',
         version => '6.2.12',
     );
 
